@@ -1,0 +1,137 @@
+{
+  "warehouse": "Central Warehouse",
+  "nodes": [
+    {
+      "name": "Central Warehouse",
+      "x": 5.0,
+      "y": 5.0
+    },
+    {
+      "name": "Connaught Place",
+      "x": 5.5,
+      "y": 6.5
+    },
+    {
+      "name": "Karol Bagh",
+      "x": 4.0,
+      "y": 6.5
+    },
+    {
+      "name": "Rohini",
+      "x": 3.0,
+      "y": 9.0
+    },
+    {
+      "name": "Janakpuri",
+      "x": 1.5,
+      "y": 5.5
+    },
+    {
+      "name": "Dwarka Sector 21",
+      "x": 0.5,
+      "y": 4.0
+    },
+    {
+      "name": "Vasant Kunj",
+      "x": 2.5,
+      "y": 2.0
+    },
+    {
+      "name": "Saket",
+      "x": 5.0,
+      "y": 1.8
+    },
+    {
+      "name": "Nehru Place",
+      "x": 7.0,
+      "y": 3.0
+    },
+    {
+      "name": "Lajpat Nagar",
+      "x": 6.8,
+      "y": 4.8
+    },
+    {
+      "name": "Laxmi Nagar",
+      "x": 9.0,
+      "y": 6.5
+    }
+  ],
+  "edges": [
+    {
+      "from": "Central Warehouse",
+      "to": "Connaught Place",
+      "distance": 3.2
+    },
+    {
+      "from": "Central Warehouse",
+      "to": "Karol Bagh",
+      "distance": 3.6
+    },
+    {
+      "from": "Central Warehouse",
+      "to": "Lajpat Nagar",
+      "distance": 4.1
+    },
+    {
+      "from": "Central Warehouse",
+      "to": "Saket",
+      "distance": 4.7
+    },
+    {
+      "from": "Connaught Place",
+      "to": "Karol Bagh",
+      "distance": 2.4
+    },
+    {
+      "from": "Connaught Place",
+      "to": "Laxmi Nagar",
+      "distance": 5.9
+    },
+    {
+      "from": "Karol Bagh",
+      "to": "Rohini",
+      "distance": 6.3
+    },
+    {
+      "from": "Karol Bagh",
+      "to": "Janakpuri",
+      "distance": 5.2
+    },
+    {
+      "from": "Janakpuri",
+      "to": "Dwarka Sector 21",
+      "distance": 3.8
+    },
+    {
+      "from": "Janakpuri",
+      "to": "Vasant Kunj",
+      "distance": 6.1
+    },
+    {
+      "from": "Dwarka Sector 21",
+      "to": "Vasant Kunj",
+      "distance": 7.4
+    },
+    {
+      "from": "Vasant Kunj",
+      "to": "Saket",
+      "distance": 4.4
+    },
+    {
+      "from": "Saket",
+      "to": "Nehru Place",
+      "distance": 3.9
+    },
+    {
+      "from": "Nehru Place",
+      "to": "Lajpat Nagar",
+      "distance": 3.3
+    },
+    {
+      "from": "Lajpat Nagar",
+      "to": "Laxmi Nagar",
+      "distance": 4.9
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+Dataset_Size,Algorithm,Theoretical_Time_Complexity,Theoretical_Space_Complexity,Elements_Processed,Execution_Time_ms
+Small (10),Merge Sort,O(n log n),O(n),10,0.0062
+Small (10),0/1 Knapsack DP,O(n · W),O(n · W),"n=10, W=50",0.0252
+Small (10),Dijkstra (Heap),O((V + E) log V),O(V + E),"V=10, E=20",0.0049
+Small (10),Nearest Neighbor TSP,O(k² + k(V+E)log V),O(V + E),Stops k=5,0.0339
+Medium (100),Merge Sort,O(n log n),O(n),100,0.0693
+Medium (100),0/1 Knapsack DP,O(n · W),O(n · W),"n=100, W=200",1.0268
+Medium (100),Dijkstra (Heap),O((V + E) log V),O(V + E),"V=30, E=91",0.0185
+Medium (100),Nearest Neighbor TSP,O(k² + k(V+E)log V),O(V + E),Stops k=15,0.323
+Large (500),Merge Sort,O(n log n),O(n),500,0.4493
+Large (500),0/1 Knapsack DP,O(n · W),O(n · W),"n=500, W=500",14.5002
+Large (500),Dijkstra (Heap),O((V + E) log V),O(V + E),"V=100, E=336",0.079
+Large (500),Nearest Neighbor TSP,O(k² + k(V+E)log V),O(V + E),Stops k=30,2.2361
