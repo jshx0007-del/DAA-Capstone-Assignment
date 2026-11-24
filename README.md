@@ -5,7 +5,7 @@
 **Design and Analysis of Algorithms (ETCCDA302) — Capstone Project**
 **Department of Computer Science & Engineering, K.R. Mangalam University**
 
-**Student:** _<Janvi Sehrawat>_ **Roll No.:** _<2501350002>_
+**Student:** Janvi Sehrawat **Roll No.:** _<2501350002>_
 
 ---
 
